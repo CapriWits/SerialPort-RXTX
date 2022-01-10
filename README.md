@@ -4,19 +4,20 @@
 
 ## Catalog
 
-+---ARM_C - ARM & C
-+---doc
-+---java		- Java code
-|   \---src		- 
-|       \---main
-|           \---java
-|               \---me
-|                   \---hypocrite30
-|                       \---serialport
-|                           +---easyexcel    - easy excel
-|                           \---serial				- serial port
-\---RXTX		- RXTX Runtime enviroment
-
+```
++---ARM_C   - ARM & C  
++---doc  
++---java    - Java code    
+|   \---src  
+|       \---main  
+|           \---java  
+|               \---me  
+|                   \---hypocrite30  
+|                       \---serialport  
+|                           +---easyexcel     -  easy excel  
+|                           \---serial	      - serial port  
+\---RXTX	- RXTX Runtime enviroment  
+```
 
 
 ## Feature
@@ -36,4 +37,4 @@
 
 ## Licence
 
-- GNU
+- LGPL-2.1 License
